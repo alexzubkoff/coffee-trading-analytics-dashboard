@@ -1,0 +1,25 @@
+.header-description {
+    color: #CFCFCF;
+    margin: 4px auto;
+    text-align: center;
+    max-width: 384px;
+    background-image: url("Coffee_Beans_Background-727176932.jpg");
+}
+
+.header-title {
+  font-size: 48px;
+  color: red;
+}
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
